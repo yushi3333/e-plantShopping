@@ -41,7 +41,7 @@ function ProductList() {
                     name: "Boston Fern",
                     image: "https://cdn.pixabay.com/photo/2020/04/30/19/52/boston-fern-5114414_1280.jpg",
                     description: "Adds humidity to the air and removes toxins.",
-                    cost: 20
+                    cost: 21
                 },
                 {
                     name: "Rubber Plant",
